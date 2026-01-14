@@ -14,9 +14,12 @@
   },
   "dependencies": {
     "@opennextjs/cloudflare": "1.14.6",
+    "@tanstack/react-query": "^5.90.17",
     "next": "15.5.9",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "viem": "~2.44.2",
+    "wagmi": "^3.3.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "3",
